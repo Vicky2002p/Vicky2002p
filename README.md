@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently learning software development and web development.<br>I am also working on multiple projects.
+Frontend Developer.<br> Interested in Tech.
 
 
 ## 🌐 Socials:
@@ -12,10 +12,6 @@ I am currently learning software development and web development.<br>I am also w
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Vicky2002p&theme=ayu-mirage&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vicky2002p&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
 [![](https://visitcount.itsvg.in/api?id=Vicky2002p&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
